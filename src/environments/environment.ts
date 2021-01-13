@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  urlServer: 'http://localhost:8080'
+  urlServer: 'https://projet-rodriguez-lucas-back.herokuapp.com/'
 };
 
 /*
